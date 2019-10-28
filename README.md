@@ -11,4 +11,8 @@
 * Criação de consultas
 * Relatórios
 
+### Observações
+* Funções
+* Arquivo .txt
+
 ### Desenvolvido por Daniel Braz em Junho de 2019
